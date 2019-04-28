@@ -1,0 +1,14 @@
+first time setup
+update
+connect bluetooth keyboard
+connect to internet
+
+install gimp 2.8
+install git
+$ git config --global user.email " "
+$ git config --global user.name " "
+add Github directory to Documents
+$ git clone https://github.com/TurtleDynasty/ThirdPeye.git
+
+save copy of background image to Picture directory
+set background
