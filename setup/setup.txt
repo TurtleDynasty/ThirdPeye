@@ -12,3 +12,6 @@ $ git clone https://github.com/TurtleDynasty/ThirdPeye.git
 
 save copy of background image to Picture directory
 set background
+
+add python scripts to end of /etc/rc.local
+	sudo python /home/pi/.../scripts/whatever.py &
